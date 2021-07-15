@@ -13,6 +13,8 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         tools:itemCount="10"
-        tools:listitem="@layout/rv_item_bluetooth" />
+        tools:listitem="@layout/rv_item_bluetooth" >
+
+    </androidx.recyclerview.widget.RecyclerView>
 
 </LinearLayout>
